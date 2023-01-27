@@ -30,9 +30,9 @@
 
 | Topic | Code | Discussion |
 |- | - | - |
-| GENERAL | [GEN](https://github.com/polygonnow/.github/tree/main/profile/GEN) | Learn about basic web3 concepts |
-| NFTS | [NFT](https://github.com/polygonnow/.github/tree/main/profile/NFT) | Learn all about NFTs |
-| DEFI | [DEFI](https://github.com/polygonnow/.github/tree/main/profile/DEFI) | Learn about tokens and DEFI protocols |
-| ORACLE | [ORCL](https://github.com/polygonnow/.github/tree/main/profile/ORCL) | Learn about Oracles and its features |
+| GENERAL | [GEN](https://github.com/polygonnow/GEN) | Learn about basic web3 concepts |
+| NFTS | [NFT](https://github.com/polygonnow/NFT) | Learn all about NFTs |
+| DEFI | [DEFI](https://github.com/polygonnow/DEFI) | Learn about tokens and DEFI protocols |
+| ORACLE | [ORCL](https://github.com/polygonnow/ORCL) | Learn about Oracles and its features |
 
 
