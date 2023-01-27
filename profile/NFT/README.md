@@ -7,7 +7,7 @@
 
 | CODE | Discussion |
 | - | - |
-| [NFT-0001](https://github.com/polygonnow/.github/blob/main/profile/GEN/GEN-0001.md) | Learn about what a NFT is? |
+| [NFT-0001](https://github.com/polygonnow/.github/blob/main/profile/NFT/NFT-0001.md) | Learn about what a NFT is? |
 
 
 
