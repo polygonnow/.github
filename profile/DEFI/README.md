@@ -5,7 +5,7 @@
 
 | Code | Discussion | 
 | - | - |
-| NFT-0001 | Learn what is NFT? |
+| DEFI-0001 | Learn what is DEFI? |
 
 
 
