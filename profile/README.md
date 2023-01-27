@@ -22,7 +22,7 @@
 > Topic aticles are each topics specific information 
 
 - If you want to create new topic in general, then go to GEN repo and add the topic discussion as GEN-lastNumber + 1.
-- For example, when you want to the GEN repo and want to create new topic, then just create new file.md which should be named GEN-<last article number> + 1.
+- For example, when you want to go to the GEN repo and want to create new topic, then just create new file.md which should be named GEN-0002.(Here the code is 0002 because already a artcile exits with the code 0001)
 
 <hr/>
 
