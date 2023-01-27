@@ -24,6 +24,8 @@
 - If you want to create new topic in general, then go to GEN sub-folder and add the topic discussion as GEN-lastNumber + 1.
 - For example, when you want to the GEN sub-folder and want to create new topic, then just create new file.md which should be named GEN-<last article number> + 1.
 
+<hr/>
+
 ## List of contents
 
 | Topic | Code | Discussion |
